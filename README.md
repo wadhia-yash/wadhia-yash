@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **Three.js, WebGL**
 
-- 👨‍💻 All of my projects are available at [https://yashwadhia.in/](https://yashwadhia.in/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://yashwadhia.in/)
 
 - 💬 Ask me about **mobile development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CzVBb-SmqoT2oB_UgPToKy5A0tnR4Ne3/view?usp=sharing](https://drive.google.com/file/d/1CzVBb-SmqoT2oB_UgPToKy5A0tnR4Ne3/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1CzVBb-SmqoT2oB_UgPToKy5A0tnR4Ne3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-wadhia-b1b0ab190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-wadhia-b1b0ab190" height="30" width="40" /></a>
-<a href="https://dribbble.com/z_e_r_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="z_e_r_o" height="30" width="40" /></a>
+<a href="https://dribbble.com/Z_E_R_O" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="z_e_r_o" height="30" width="40" /></a>
 <a href="https://www.behance.net/aarushwadhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aarushwadhia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wadhiayash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wadhiayash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash-wadhia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash-wadhia" height="30" width="40" /></a>
